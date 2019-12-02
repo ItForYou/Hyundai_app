@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="json_setup">http://www.xn--vk1b93jqsbr18c.kr/main/gcmSetup.php</string>
+    <string name="cargo_write">http://www.xn--vk1b93jqsbr18c.kr/bbs/mobile_write.php?bbs_id=cargo</string>
+    <string name="cargo_list">http://www.xn--vk1b93jqsbr18c.kr/bbs/mobile_list.php?bbs_id=cargo</string>
+    <string name="login">http://www.xn--vk1b93jqsbr18c.kr/bbs/mobile_mb_login2.php</string>
+    <string name="mb_login">http://www.xn--vk1b93jqsbr18c.kr/mobile/mb_login.php</string>
+    <string name="custom_list">http://www.xn--vk1b93jqsbr18c.kr/bbs/mobile_list.php?bbs_id=qnaa</string>
+    <string name="cargo_search">http://www.xn--vk1b93jqsbr18c.kr/mobile/search.htm?bbs_id=cargo</string>
+</resources>
